@@ -2,9 +2,9 @@
 
 **Data- och systemvetenskap @ Stockholm University (DSV)**
 
-*   **Focus:** Data Quality, Analytics Engineering & Governance
+*   **Focus:** Data Quality, Analytics Engineering, Database Methodology
 *   **Tools:** SQL, Python, Java, Data Modeling
-*   **Interests:** Ensuring data integrity, building pipelines, and BI
+*   **Interests:** Ensuring data integrity, building pipelines, BI
 *   **Goal:** Junior roles or internships in Stockholm
 
 ### Connect with me ✉️
