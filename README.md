@@ -1,4 +1,4 @@
-## Hi! I'm Vera 🇸🇪
+## Hi! I'm Vera
 
 **Data- och systemvetenskap @ Stockholm University (DSV)**
 
@@ -7,5 +7,5 @@
 *   **Interests:** Ensuring data integrity, building pipelines, BI
 *   **Goal:** Junior roles or internships in Stockholm
 
-### Connect with me ✉️
+### Connect with me
 [LinkedIn](https://www.linkedin.com/in/vera-olund/) | [Email](mailto:vera.olund@outlook.com)
